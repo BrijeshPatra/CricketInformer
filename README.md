@@ -18,9 +18,6 @@ Cricket Informer Backend is a Spring Boot application designed to serve as the b
 
 - **JPA (Java Persistence API):** A Java specification for accessing, persisting, and managing data between Java objects and a relational database.
 
-
-## Getting Started
-
 ### Prerequisites
 
 Ensure that you have the following installed on your machine:
